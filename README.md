@@ -10,7 +10,7 @@ export class MyGithubRepo extends BenjaminSaobuppha
 
 Here lies all my **projects** from past hackathons to personal ones. Feel free to take a look! 
 
-Let me know if you want to collaborate with me in some projects by emailing me @ ben.saobuppha@mail.utoronto.ca
+Let me know if you want to collaborate with me in some **project** or **hackathon** by emailing me @ ben.saobuppha@mail.utoronto.ca
 
 ## Visit my other links
 
