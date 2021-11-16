@@ -1,4 +1,4 @@
-# 👋 Hello and welcome to my repository!
+# 👋 Hello and Welcome to my Repository!
 
 ```ts
 export class MyGithubRepo extends BenjaminSaobuppha
