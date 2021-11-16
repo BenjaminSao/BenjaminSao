@@ -1,7 +1,7 @@
 # 👋 Hello and welcome to my repository!
 
 ```ts
-export class MyGithubRepo
+export class MyGithubRepo extends BenjaminSaobuppha
 {
   public personalProjects: Array<PersonalProject>;
   public hackathonProjects: Array<HackathonProject>;
