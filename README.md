@@ -14,4 +14,4 @@ Let me know if you want to collaborate with me in some **project** or **hackatho
 
 ## Visit my other links
 
-[**Personal_Site**](http://bensaobuppha.com). [**LinkedIn**](https://www.linkedin.com/in/bensaobuppha/)
+[**Personal_Site**](http://bensaobuppha.com) [**LinkedIn**](https://www.linkedin.com/in/bensaobuppha/)
